@@ -1,3 +1,4 @@
+*.pkl
 # Sensitive info
 practice/*
 # Byte-compiled / optimized / DLL files
